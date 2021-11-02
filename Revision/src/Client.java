@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class Client {
 
+	// main method
 	public static void main(String[] args) {
 		IArea r = new Rectangle(3, 4);
 		System.out.println(r.getArea());
